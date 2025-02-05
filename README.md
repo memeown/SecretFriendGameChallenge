@@ -1,1 +1,1 @@
-# challenge-amigo-secreto
+# secretFriendGameChallenge
